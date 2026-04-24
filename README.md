@@ -395,7 +395,9 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ## 👤 Author
 
 **Sahil Nimse**
-- GitHub: [@SahilNimse](https://github.com/SahilNimse)
+- GitHub: [Sahil Nimse](https://github.com/sahillnimse)
+- LinkedIn: [Sahil Nimse](https://www.linkedin.com/in/sahillnimse)
+- Portfolio: [Sahil Nimse](https://sahil-nimse-7d6psr4.gamma.site/)
 
 ---
 
